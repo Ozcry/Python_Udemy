@@ -1,0 +1,7 @@
+# Ambiente virtual
+para criar um ambiente virtual no Linux e necessário instalar o Python e o Python-venv
+
+# comandos
+  python3 -m venv (nome) --> cria o ambiente virtual
+
+  source nome/bin/activate --> inicia o ambiente virtual
