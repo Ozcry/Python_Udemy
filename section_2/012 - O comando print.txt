@@ -1,0 +1,5 @@
+print() --> exibe alguma coisa na tela
+
+print('texto', 'texto', sep='separador') --> o argumento sep e usado para definir qual separador sera usado na hora de exibir
+
+print('texto', end='') --> o argumento end e usado para definir o que acontecera ao final da linha, por padrão e uma quebra de linha

@@ -1,0 +1,15 @@
+tipos de dados
+ - inteiro (int) -- 12345 0 -12 -21
+ - real/ponto flutuante (float) -- 0.2 0.123 -0.56
+ - string (str) -- textos "assim" 'assim' '''assim''' """assim"""
+ - booleano/lógico (bool) -- True False
+
+python possui tipagem dinâmica
+
+type() --> mostra o tipo do dado
+
+fazer conversão entre tipos
+ - str()
+ - float()
+ - int()
+ - bool()

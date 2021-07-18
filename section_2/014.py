@@ -1,0 +1,12 @@
+print(type(123))
+print(type('jean'))
+print(type(1.2))
+print(type(10 == 10))  # '==' significa comparação
+print(type(bool(1)))
+print(type(int('5')))
+print(type(float('5.2')))
+print(type(str(5)))
+print('jean', type('jean'))
+print(23, type(23))
+print(1.75, type(1.75))
+print(23 > 18, type(23 > 18))

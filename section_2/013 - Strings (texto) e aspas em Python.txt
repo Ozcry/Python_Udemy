@@ -1,0 +1,12 @@
+String e um tipo de dado primitivo em Python
+str = string
+
+string são textos que estão dentro de aspas
+
+\ --> caractere de escape usado antes de um comando para ignorá-lo dentro de um string
+  print('Esse é meu \'texto\' (str)') --> usando \ para ignorar as aspas
+
+\n --> usado para quebrar uma linha
+  print('um texto \n quebrado')
+
+print(r'usar o r antes das aspas para não executar nada que esta dentro das aspas')

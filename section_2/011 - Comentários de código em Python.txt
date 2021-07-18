@@ -1,0 +1,18 @@
+# --> isso cria um comentário
+  # isso é um comentário
+
+""" """ --> isso cria um comentário multi linha
+  """
+  texto
+  texto
+  texto
+  texto
+  """
+
+''' ''' --> isso cria um comentário multi linha
+  '''
+  texto
+  texto
+  texto
+  texto
+  '''
