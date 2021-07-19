@@ -1,0 +1,10 @@
+Operadores Aritméticos
+
++ --> adição
+- --> subtração
+* --> multiplicação
+/ --> divisão
+// --> divisão inteira
+** --> potenciação
+% --> modulo / resto da divisão
+() --> altera a precedência nas contas

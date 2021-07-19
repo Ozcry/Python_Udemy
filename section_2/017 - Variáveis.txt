@@ -1,0 +1,6 @@
+Variáveis
+
+- inicia com uma letra ou '_'
+- pode conter números
+- se for nome composto usar '_' para separar
+- usar letras minúsculas

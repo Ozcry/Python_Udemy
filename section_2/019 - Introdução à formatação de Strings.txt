@@ -1,0 +1,9 @@
+formatação de strings
+
+f strings, utilizado junto com o comando print para facilitar a formatação
+    print(f'aqui vai um texto e aqui {variável} em colchetes vão às variáveis')
+
+:.(número de casas)f --> quantas casas decimais desejo ver
+
+.format, utilizado junto com o comando print para facilitar a formatação
+    print('aqui vai um texto e {} dentro de colchetes reservo para as variáveis'.format(aqui em coloco as variáveis dos colchetes em ordem))
