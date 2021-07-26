@@ -1,0 +1,7 @@
+sudo mysql -u root --> para entrar no servidor mySQL
+
+USE mysql; --> usar a data de base sql
+
+UPDATE user SET plugin '' WHERE User='root'; ---->  atualizar usuário root (remover plugin do usuário root)
+
+FLUSH PRIVILEGES;
