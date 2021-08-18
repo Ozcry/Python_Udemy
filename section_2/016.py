@@ -1,0 +1,8 @@
+print('jean' * 5)
+print('5 x 6 =', 5 * 6)
+print('jean' + ' ' + 'Lucas')
+print(2 / 4)
+print(2 // 4)
+print(2 ** 4)
+print(10 % 5)
+print(5 + 5 * (7 - 2) ** 4)
