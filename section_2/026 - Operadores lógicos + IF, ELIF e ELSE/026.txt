@@ -1,0 +1,7 @@
+# Operadores Lógicos
+
+and --> E --> faz uma comparação dupla retorna true caso às duas sejam verdadeiras
+or --> OU --> faz uma comparação dupla retorna true caso às uma das duas sejam verdadeiras
+not --> NÃO --> (inversor) inverte o valor de uma expressão
+in --> ESTA --> verifica se algo existe dentro de algo
+not in --> NÃO ESTA --> verifica se algo não existe dentro de algo

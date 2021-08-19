@@ -1,0 +1,8 @@
+# Operadores Relacionais
+
+== --> igualdade
+> --> maior que
+>= --> maior que ou igual a
+< --> menor que
+<= --> menor que ou igual a
+!= --> diferente

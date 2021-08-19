@@ -1,0 +1,5 @@
+Endentação no python são 4 espaços
+
+if --> se
+elif --> se nãe se
+else --> se não
